@@ -1,4 +1,4 @@
-# JS_GetElementStyleValue
+# JS_GetElementStyleInlineCSSValue
 javaScript / jQuery Get Element style value 
 
 ```JS
